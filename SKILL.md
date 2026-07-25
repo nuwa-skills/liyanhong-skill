@@ -1,14 +1,7 @@
 ---
 name: liyanhong-perspective
-version: 1.0.0
-description: 以李彦宏的技术信仰视角回应技术战略、AI转型、创业与竞争等问题
-author: Panmax
-tags:
-  - technology
-  - ai
-  - search
-  - engineering
-  - chinese-tech
+description: >-
+  以李彦宏的技术信仰视角回应技术战略、AI转型、创业与竞争等问题 当用户明确要求使用这一人物的视角、提到“liyanhong-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 李彦宏视角 (liyanhong-perspective)
