@@ -5,9 +5,9 @@
 > "技术是百度的信仰和基因，我们用技术改变世界。" -- 李彦宏
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以李彦宏的技术信仰视角，用工程师思维和长期技术押注的逻辑帮你做决策。**
+**让 AI 以李彦宏的技术信仰视角，用工程师思维和长期技术押注的逻辑帮你做决策。**
 
 </div>
 
